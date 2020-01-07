@@ -1,4 +1,6 @@
 # Simple pong game in Python 3
+#This is just a simple pong game I learnt last month..... 
+#It helps in relaxing a bit while coding for a lot time(recommended to play with your pals:)))  )
 
 import turtle
 
